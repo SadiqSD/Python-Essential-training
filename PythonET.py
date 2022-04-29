@@ -24,21 +24,44 @@ text = """
 my name is is my sadiq murtasla isa isa musa my name is sadiq isa musa
 """
 
-import random
-
-user_guess = int(input("guess the input "))
-random_numer = random.randint(1,10)
-
-while user_guess != random_numer:
-    print
 
 
 
+#erros in python
+#generators and decorators
+#class
+
+# class users_info:
+#     def __int__(self):
+#         self.name
+#         self.surname
+#         self.hobby
+#
+#
+# user1 = users_info()
+# user1.name = "sadiq"
+# user1.surname = "murtala"
+# user1.hobby = "codding"
 
 
+#files
 
 
+# for and while loops
 
+# for i in range(1,10):
+#     print("")
+#The for loop follows the loop of numbers untile done it loop through items like nmbers and so on
+
+#while loop, break
+# l = 0
+# while l < 6:
+#     print(l, "you're my lover")
+#     if l == 2:
+#         break
+#     l += 1
+
+file = open("Essential_python.py", "r")
 
 
 
