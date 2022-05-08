@@ -11,5 +11,5 @@ while user_guess != random_number:
     print(user_guess)
 else:
     print()
-
+#This is just nice, the bravery is just to start
 
